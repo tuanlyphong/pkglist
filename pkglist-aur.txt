@@ -1,0 +1,6 @@
+grimblast-git
+hyprdict
+topgrade
+yay-bin
+yay-bin-debug
+zen-browser-bin
