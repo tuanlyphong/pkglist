@@ -1,5 +1,10 @@
+cloudflare-warp-bin
 grimblast-git
+hexchat
 hyprdict
+rofi-power-menu
+rofi-script-to-dmenu
+sddm-silent-theme
 topgrade
 yay-bin
 yay-bin-debug
