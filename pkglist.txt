@@ -6,6 +6,7 @@ awww
 base
 base-devel
 bat
+bibata-cursor-theme-bin
 brightnessctl
 btop
 btrfs-progs
@@ -34,7 +35,9 @@ git
 grim
 grimblast-git
 grub
+gst-libav
 gst-plugin-pipewire
+gst-plugins-good
 hexchat
 hyprdict
 hypridle
@@ -46,6 +49,7 @@ intel-ucode
 iwd
 kitty
 krita
+lazygit
 lib32-gamemode
 lib32-giflib
 lib32-nvidia-utils
@@ -71,6 +75,8 @@ noto-fonts-cjk
 npm
 nvidia-open-dkms
 nvidia-prime
+onlyoffice-bin
+otf-takao
 pipewire
 pipewire-alsa
 pipewire-jack
@@ -91,10 +97,12 @@ sddm-silent-theme
 slurp
 smartmontools
 steam
+tectonic
 tldr
 topgrade
 tree-sitter-cli
 ttf-jetbrains-mono-nerd
+ttf-ms-fonts
 ueberzugpp
 unrar
 vulkan-intel
@@ -105,6 +113,8 @@ wine-mono
 winetricks
 wireless_tools
 wireplumber
+woff2-font-awesome
+wtype
 xdg-desktop-portal-hyprland
 xdg-utils
 xorg-server
