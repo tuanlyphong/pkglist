@@ -1,15 +1,9 @@
 bibata-cursor-theme-bin
-cloudflare-warp-bin
-grimblast-git
 hexchat
 hyprdict
-onlyoffice-bin
 otf-takao
 rofi-power-menu
 rofi-script-to-dmenu
 sddm-silent-theme
-topgrade
 ttf-ms-fonts
-yay-bin
 yay-bin-debug
-zen-browser-bin
