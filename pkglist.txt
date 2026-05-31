@@ -1,6 +1,7 @@
 adobe-source-han-sans-jp-fonts
 adobe-source-han-serif-jp-fonts
 anki
+ardour
 aria2
 awww
 base
@@ -33,6 +34,7 @@ fcitx5-qt
 fcitx5-unikey
 fd
 ffmpegthumbnailer
+freepats-salamander-sf2
 fzf
 gamemode
 git
@@ -45,7 +47,6 @@ gst-plugin-pipewire
 gst-plugins-good
 heroic-games-launcher-bin
 hexchat
-hyprdict
 hypridle
 hyprland
 hyprlock
@@ -62,6 +63,8 @@ lib32-giflib
 lib32-nvidia-580xx-utils
 lib32-vulkan-icd-loader
 lib32-vulkan-intel
+libaacs
+libdvdcss
 libpulse
 linux-cachyos
 linux-cachyos-headers
@@ -108,6 +111,7 @@ sddm
 sddm-silent-theme
 slurp
 smartmontools
+soundfont-fluid
 steam
 tectonic
 tldr
@@ -117,6 +121,9 @@ ttf-jetbrains-mono-nerd
 ttf-ms-fonts
 ueberzugpp
 unrar
+vesktop
+vlc
+vlc-plugins-all
 vulkan-intel
 waybar
 wget
@@ -136,6 +143,7 @@ yay-bin
 yay-bin-debug
 yazi
 zathura
+zathura-pdf-poppler
 zen-browser-bin
 zoxide
 zram-generator
