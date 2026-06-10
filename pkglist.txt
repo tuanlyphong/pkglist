@@ -45,6 +45,7 @@ grub
 gst-libav
 gst-plugin-pipewire
 gst-plugins-good
+gvim
 heroic-games-launcher-bin
 hexchat
 hypridle
@@ -73,6 +74,7 @@ lolcat
 lua51
 luarocks
 mediainfo
+mkvtoolnix-cli
 mpc
 mpd
 mpv
@@ -86,15 +88,20 @@ npm
 nvidia-580xx-dkms
 nvidia-580xx-utils
 nvidia-prime
+obs-studio
 onlyoffice-bin
 otf-takao
+pavucontrol
 pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
 polkit-kde-agent
 protonplus
+python-pip
+python-pipx
 qbittorrent
+qpwgraph
 qt5-wayland
 qt6-wayland
 rclone
@@ -106,6 +113,7 @@ rofi-emoji
 rofi-power-menu
 rofi-script-to-dmenu
 rust
+samba
 scx-scheds
 sddm
 sddm-silent-theme
@@ -114,6 +122,7 @@ smartmontools
 soundfont-fluid
 steam
 tectonic
+tk
 tldr
 topgrade
 tree-sitter-cli
@@ -121,6 +130,8 @@ ttf-jetbrains-mono-nerd
 ttf-ms-fonts
 ueberzugpp
 unrar
+usbmuxd
+v4l2loopback-dkms
 vesktop
 vlc
 vlc-plugins-all
