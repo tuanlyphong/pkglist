@@ -1,6 +1,5 @@
 bibata-cursor-theme-bin
 freepats-salamander-sf2
-hexchat
 otf-takao
 rofi-power-menu
 rofi-script-to-dmenu
