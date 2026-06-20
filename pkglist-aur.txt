@@ -4,5 +4,6 @@ otf-takao
 rofi-power-menu
 rofi-script-to-dmenu
 sddm-silent-theme
+topgrade
 ttf-ms-fonts
 yay-bin-debug

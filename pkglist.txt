@@ -97,6 +97,7 @@ pipewire-pulse
 polkit-kde-agent
 power-profiles-daemon
 protonplus
+python-mutagen
 python-pip
 python-pipx
 qbittorrent
