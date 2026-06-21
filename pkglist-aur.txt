@@ -1,5 +1,4 @@
 bibata-cursor-theme-bin
-bun-bin
 freepats-salamander-sf2
 otf-takao
 rofi-power-menu

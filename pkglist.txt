@@ -10,7 +10,6 @@ bibata-cursor-theme-bin
 brightnessctl
 btop
 btrfs-progs
-bun-bin
 cachyos-keyring
 cachyos-mirrorlist
 cachyos-v3-mirrorlist
