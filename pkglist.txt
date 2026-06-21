@@ -10,6 +10,7 @@ bibata-cursor-theme-bin
 brightnessctl
 btop
 btrfs-progs
+bun-bin
 cachyos-keyring
 cachyos-mirrorlist
 cachyos-v3-mirrorlist
@@ -51,6 +52,7 @@ imagemagick
 intel-ucode
 iwd
 jdk-openjdk
+jdk21-openjdk
 kimageformats
 kitty
 krita
@@ -71,6 +73,7 @@ lua51
 luarocks
 matugen
 mediainfo
+mitmproxy
 mkvtoolnix-cli
 mpc
 mpd
@@ -80,6 +83,7 @@ nautilus
 ncmpcpp
 neovim
 networkmanager
+networkmanager-openvpn
 niri
 noto-fonts-cjk
 npm
@@ -134,6 +138,7 @@ vesktop
 vlc
 vlc-plugins-all
 vulkan-intel
+websocat
 wget
 wine
 wine-mono
@@ -145,12 +150,14 @@ woff2-font-awesome
 wtype
 xdg-desktop-portal-gnome
 xdg-utils
+xh
 xorg-server
 xorg-xinit
 xwayland-satellite
 yay-bin
 yay-bin-debug
 yazi
+yt-dlp
 zathura
 zathura-pdf-poppler
 zen-browser-bin
