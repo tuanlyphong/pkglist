@@ -116,6 +116,7 @@ rofi-power-menu
 rofi-script-to-dmenu
 rust
 samba
+satty
 scx-scheds
 sddm
 sddm-silent-theme
@@ -127,6 +128,7 @@ tectonic
 tk
 tldr
 topgrade
+translate-shell
 tree-sitter-cli
 ttf-jetbrains-mono-nerd
 ttf-ms-fonts
