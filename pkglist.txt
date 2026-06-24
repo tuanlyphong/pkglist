@@ -24,6 +24,7 @@ dkms
 dmenu
 dms-shell-niri
 dunst
+dust
 efibootmgr
 eza
 fastfetch
@@ -39,6 +40,7 @@ freepats-salamander-sf2
 fzf
 gamemode
 git
+github-cli
 gradle
 grim
 grub
@@ -67,7 +69,6 @@ libpulse
 linux-cachyos
 linux-cachyos-headers
 linux-firmware
-lolcat
 lua51
 luarocks
 matugen
