@@ -85,6 +85,7 @@ neovim
 networkmanager
 networkmanager-openvpn
 niri
+nmap
 noto-fonts-cjk
 npm
 nvidia-580xx-dkms
