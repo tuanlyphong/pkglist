@@ -1,9 +1,14 @@
 bibata-cursor-theme-bin
+chowbyod-bin
 freepats-salamander-sf2
+localstack-cli-bin
+obs-backgroundremoval
 otf-takao
 rofi-power-menu
 rofi-script-to-dmenu
 sddm-silent-theme
+smartamp
 topgrade
 ttf-ms-fonts
+visual-studio-code-bin
 yay-bin-debug
