@@ -62,6 +62,7 @@ irssi
 iwd
 jdk-openjdk
 jdk21-openjdk
+kdenlive
 kimageformats
 kitty
 krita
