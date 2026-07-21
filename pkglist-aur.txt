@@ -1,3 +1,4 @@
+anime_tui
 bibata-cursor-theme-bin
 chowbyod-bin
 freepats-salamander-sf2
