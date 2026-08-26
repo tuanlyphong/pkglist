@@ -1,13 +1,16 @@
 anime_tui
+aseprite
 bibata-cursor-theme-bin
 chowbyod-bin
 freepats-salamander-sf2
+lib32-giflib
 localstack-cli-bin
 obs-backgroundremoval
 otf-takao
 rofi-power-menu
 rofi-script-to-dmenu
 sddm-silent-theme
+seclists
 smartamp
 topgrade
 ttf-ms-fonts

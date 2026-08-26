@@ -4,6 +4,7 @@ anime_tui
 anki
 ardour
 aria2
+aseprite
 avldrums.lv2
 aws-cli-v2
 base
@@ -28,6 +29,8 @@ dkms
 dmenu
 dms-shell-niri
 docker
+docker-buildx
+docker-compose
 dunst
 dust
 efibootmgr
@@ -46,6 +49,7 @@ fzf
 gamemode
 git
 github-cli
+gobuster
 godot
 gradle
 grim
@@ -56,6 +60,7 @@ gst-plugins-good
 guitarix
 gvim
 heroic-games-launcher-bin
+hydra
 imagemagick
 intel-ucode
 irssi
@@ -81,6 +86,7 @@ linux-firmware
 localstack-cli-bin
 lua51
 luarocks
+lutris
 matugen
 mediainfo
 mitmproxy
@@ -113,6 +119,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pnpm
 polkit-kde-agent
 power-profiles-daemon
 protonplus
@@ -136,13 +143,16 @@ satty
 scx-scheds
 sddm
 sddm-silent-theme
+seclists
 sfizz
 slurp
 smartamp
 smartmontools
 soundfont-fluid
 steam
+syncthing
 tectonic
+telegram-desktop
 tk
 tldr
 topgrade
@@ -154,6 +164,7 @@ ttf-ms-fonts
 ueberzugpp
 unrar
 usbmuxd
+uv
 v4l2loopback-dkms
 vesktop
 visual-studio-code-bin
@@ -161,6 +172,7 @@ vlc
 vlc-plugins-all
 vulkan-intel
 websocat
+wf-recorder
 wget
 wine
 wine-mono
