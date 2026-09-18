@@ -59,7 +59,7 @@ gst-plugin-pipewire
 gst-plugins-good
 guitarix
 gvim
-heroic-games-launcher-bin
+heroic-games-launcher
 hydra
 imagemagick
 intel-ucode

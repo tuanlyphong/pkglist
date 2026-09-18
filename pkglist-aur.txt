@@ -14,5 +14,6 @@ seclists
 smartamp
 topgrade
 ttf-ms-fonts
+vesktop
 visual-studio-code-bin
 yay-bin-debug
