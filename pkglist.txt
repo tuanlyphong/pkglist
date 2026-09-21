@@ -100,6 +100,7 @@ ncmpcpp
 neovim
 networkmanager
 networkmanager-openvpn
+ngrok
 niri
 nmap
 noto-fonts
@@ -112,6 +113,7 @@ obs-backgroundremoval
 obs-studio
 onlyoffice-bin
 openai-codex
+opencode
 otf-takao
 pandoc-cli
 pavucontrol
@@ -133,6 +135,7 @@ qt5-wayland
 qt6-wayland
 rclone
 reflector
+renpy
 resvg
 rofi
 rofi-power-menu
@@ -143,6 +146,7 @@ satty
 scx-scheds
 sddm
 sddm-silent-theme
+sdl3_image
 seclists
 sfizz
 slurp
@@ -151,6 +155,7 @@ smartmontools
 soundfont-fluid
 steam
 syncthing
+tailscale
 tectonic
 telegram-desktop
 tk

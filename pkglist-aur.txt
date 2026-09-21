@@ -5,8 +5,10 @@ chowbyod-bin
 freepats-salamander-sf2
 lib32-giflib
 localstack-cli-bin
+ngrok
 obs-backgroundremoval
 otf-takao
+renpy
 rofi-power-menu
 rofi-script-to-dmenu
 sddm-silent-theme
