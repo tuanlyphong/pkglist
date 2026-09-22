@@ -135,7 +135,6 @@ qt5-wayland
 qt6-wayland
 rclone
 reflector
-renpy
 resvg
 rofi
 rofi-power-menu
