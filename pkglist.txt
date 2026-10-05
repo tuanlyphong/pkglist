@@ -11,6 +11,7 @@ base
 base-devel
 bat
 bibata-cursor-theme-bin
+blender
 brightnessctl
 btop
 btrfs-progs
@@ -27,7 +28,6 @@ cmake
 cups-pk-helper
 dkms
 dmenu
-dms-shell-niri
 docker
 docker-buildx
 docker-compose
