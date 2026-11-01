@@ -60,6 +60,7 @@ gst-plugins-good
 guitarix
 gvim
 heroic-games-launcher
+himalaya
 hydra
 imagemagick
 intel-ucode
