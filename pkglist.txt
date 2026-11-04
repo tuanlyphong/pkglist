@@ -113,7 +113,6 @@ obs-backgroundremoval
 obs-studio
 onlyoffice-bin
 openai-codex
-opencode
 otf-takao
 pandoc-cli
 pavucontrol
