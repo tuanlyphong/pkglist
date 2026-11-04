@@ -1,3 +1,6 @@
+android-sdk
+android-sdk-build-tools
+android-sdk-platform-tools
 anime_tui
 aseprite
 bibata-cursor-theme-bin

@@ -1,5 +1,8 @@
 adobe-source-han-sans-jp-fonts
 adobe-source-han-serif-jp-fonts
+android-sdk
+android-sdk-build-tools
+android-sdk-platform-tools
 anime_tui
 anki
 ardour
