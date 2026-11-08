@@ -2,7 +2,10 @@ adobe-source-han-sans-jp-fonts
 adobe-source-han-serif-jp-fonts
 android-sdk
 android-sdk-build-tools
+android-sdk-cmdline-tools-latest
 android-sdk-platform-tools
+android-tools
+android-udev
 anime_tui
 anki
 ardour
@@ -29,6 +32,7 @@ chowbyod-bin
 cloudflare-warp-bin
 cmake
 cups-pk-helper
+dart
 dkms
 dmenu
 docker
@@ -70,6 +74,7 @@ intel-ucode
 irssi
 iwd
 jdk-openjdk
+jdk17-openjdk
 jdk21-openjdk
 kimageformats
 kitty
@@ -114,8 +119,10 @@ nvidia-580xx-utils
 nvidia-prime
 obs-backgroundremoval
 obs-studio
+obsidian
 onlyoffice-bin
 openai-codex
+opencode
 otf-takao
 pandoc-cli
 pavucontrol
@@ -194,9 +201,10 @@ xh
 xorg-server
 xorg-xinit
 xwayland-satellite
-yay-bin
+yay
 yay-bin-debug
 yazi
+youtube-tui
 yt-dlp
 zathura
 zathura-pdf-poppler
