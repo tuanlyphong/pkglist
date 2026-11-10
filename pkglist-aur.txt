@@ -22,4 +22,3 @@ ttf-ms-fonts
 vesktop
 visual-studio-code-bin
 yay-bin-debug
-youtube-tui

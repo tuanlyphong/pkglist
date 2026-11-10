@@ -119,7 +119,6 @@ nvidia-580xx-utils
 nvidia-prime
 obs-backgroundremoval
 obs-studio
-obsidian
 onlyoffice-bin
 openai-codex
 opencode
@@ -204,7 +203,6 @@ xwayland-satellite
 yay
 yay-bin-debug
 yazi
-youtube-tui
 yt-dlp
 zathura
 zathura-pdf-poppler
